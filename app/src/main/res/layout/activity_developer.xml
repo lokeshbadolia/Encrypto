@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".developer">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        android:paddingTop="12dp"
+        android:paddingBottom="5dp">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:padding="12dp"
+            app:srcCompat="@drawable/back" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="20dp"
+            android:fontFamily="@font/linotte_semi_bold"
+            android:gravity="right"
+            android:text="Developer Preview"
+            android:textColor="#424242"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+
+
+                    <ImageView
+                        android:layout_width="250dp"
+                        android:layout_height="250dp"
+                        android:scaleType="centerCrop"
+                        app:srcCompat="@drawable/lokesh" />
+
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="10dp"
+                    android:fontFamily="@font/linotte_semi_bold"
+                    android:gravity="center"
+                    android:text="Lokesh Badolia"
+                    android:textColor="#424242"
+                    android:textSize="18dp" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/linotte_semi_bold"
+                    android:gravity="center"
+                    android:text="Master's of Computer Application (JNU)"
+                    android:textColor="@color/md_grey_600"
+                    android:textSize="18dp" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:fontFamily="@font/linotte_bold"
+                    android:text="Email : "
+                    android:textColor="#3c3737"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/btnEmail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="30dp"
+                    android:background="@drawable/btn_design"
+                    android:elevation="0dp"
+                    android:fontFamily="@font/linotte_semi_bold"
+                    android:paddingLeft="15dp"
+                    android:paddingTop="12dp"
+                    android:paddingRight="15dp"
+                    android:paddingBottom="12dp"
+                    android:text="Contact me"
+                    android:textColor="@color/md_white_1000"
+                    android:textSize="17dp" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="35dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="10dp"
+                    android:fontFamily="@font/linotte_bold"
+                    android:text="Visit My Profile :"
+                    android:textColor="#3c3737"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:layout_marginBottom="30dp"
+                    android:id="@+id/btnGit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:layout_marginLeft="30dp"
+                    android:background="@drawable/btn_design2"
+                    android:elevation="0dp"
+                    android:fontFamily="@font/linotte_semi_bold"
+                    android:paddingLeft="15dp"
+                    android:paddingTop="12dp"
+                    android:paddingRight="15dp"
+                    android:paddingBottom="12dp"
+                    android:text="Check my Github"
+                    android:textColor="@color/md_grey_900"
+                    android:textSize="17dp" />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

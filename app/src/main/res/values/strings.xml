@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Encrypto</string>
+    <string name="warning">*Above Encryption does not support " * ^ ' ' , { } [ ] ( ) " types of Character.</string>
+    <string name="warning2">*Above Decryption does not support " * ^ ' ' , { } [ ] ( ) " types of Character.</string>
+</resources>
