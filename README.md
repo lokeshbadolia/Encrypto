@@ -9,10 +9,10 @@ If you want to support or use my logic, feel free to do so.
 ## ScreenShots
 
 <p align="left">
-  <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final1.png" width="420"  height="420" >
-  <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final2.png" width="420"  height="420" >
-  <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final3.png" width="420"  height="420" >
-  <img src="https://github.com/lokeshbadolia/KidsAdda/blob/master/final4.png" width="420"  height="420" >
+  <img src="https://github.com/lokeshbadolia/Encrypto/blob/master/1.png" width="270"  height="570" >
+  <img src="https://github.com/lokeshbadolia/Encrypto/blob/master/3.png" width="270"  height="570" >
+  <img src="https://github.com/lokeshbadolia/Encrypto/blob/master/2.png" width="270"  height="570" >
+  <img src="https://github.com/lokeshbadolia/Encrypto/blob/master/4.png" width="270"  height="570" >
 </p>
 
 ## Application Objective
