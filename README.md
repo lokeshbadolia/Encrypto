@@ -10,7 +10,6 @@ If you want to support or use my logic, feel free to do so.
 
 <p align="left">
   <img src="https://github.com/lokeshbadolia/Encrypto/blob/master/1.png" width="270"  height="570" >
-  <img src="https://github.com/lokeshbadolia/Encrypto/blob/master/3.png" width="270"  height="570" >
   <img src="https://github.com/lokeshbadolia/Encrypto/blob/master/2.png" width="270"  height="570" >
   <img src="https://github.com/lokeshbadolia/Encrypto/blob/master/4.png" width="270"  height="570" >
 </p>
